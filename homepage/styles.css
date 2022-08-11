@@ -1,0 +1,29 @@
+/* <!-- Have at least one stylesheet file of your own creation, styles.css,
+which uses at least five (5) different CSS selectors (e.g. tag (example),
+class (.example), or ID (#example)), and within which you use a total of at
+least five (5) different CSS properties, such as font-size, or margin; --> */
+
+/* How to make a nav bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.h1_name {
+    margin: center;
+    background-color: lightblue;
+}
+
+h1 {
+    margin: center;
+}
+
+#introduction {
+    font-size: 20px;
+    background-color: #6f42c1;
+}
